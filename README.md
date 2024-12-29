@@ -29,7 +29,7 @@ A simple API for managing user accounts and finance data, built with FastAPI. Th
 1. **Clone the Repository:**
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/AniBirage/Punyaja_submission.git
    cd finance-dashboard
    ```
 
